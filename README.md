@@ -49,7 +49,7 @@ And uses a query like:
 }
 ```
 
-The output looks like:
+A sample output line looks like:
 ```
 {
   "creator": [
